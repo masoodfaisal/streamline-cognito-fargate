@@ -1,4 +1,7 @@
 
+# Deploy Python app on AWS Fargate using AWS CDK
+This stack package and deploy your python app onto AWS Fargate using AWS CDK.
+
 # Welcome to your CDK Python project!
 
 This is a blank project for CDK development with Python.
